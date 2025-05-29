@@ -1,0 +1,22 @@
+{
+  "name": "growagarden-scraper",
+  "version": "1.0.0",
+  "description": "Scraper sederhana untuk mengambil data stocks dan weather dari GrowAGarden.gg",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "growagarden",
+    "scraper",
+    "stocks",
+    "weather",
+    "nodejs",
+    "axios"
+  ],
+  "author": "zaneru.id",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
